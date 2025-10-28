@@ -9,7 +9,7 @@ import {
   Twitter,
   Facebook,
 } from "lucide-react";
-import profilePic from "../assets/userpic.png.jpg"; // Import your profile picture
+import profilePic from "../assets/userpic.png"; // Import your profile picture
 
 const Hero = () => {
   const [currentText, setCurrentText] = useState("");
