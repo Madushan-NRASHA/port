@@ -118,8 +118,8 @@ const Contact = () => {
                     <a
                       href="mailto:madushan.nirasha@example.com"
                       className="text-accent hover:text-yellow-400 transition-colors"
-                    >
-                      madushan.nirasha@example.com
+                    >789official123@gmail.com
+                     
                     </a>
                   </div>
                 </div>
